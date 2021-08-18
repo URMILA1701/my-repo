@@ -1,0 +1,16 @@
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.csproj.AssemblyReference.cache
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.GeneratedMSBuildEditorConfig.editorconfig
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.AssemblyInfoInputs.cache
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.AssemblyInfo.cs
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.csproj.CoreCompileInputs.cache
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\HandsOnString.exe
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\HandsOnString.deps.json
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\HandsOnString.runtimeconfig.json
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\HandsOnString.runtimeconfig.dev.json
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\HandsOnString.dll
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\ref\HandsOnString.dll
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\bin\Debug\net5.0\HandsOnString.pdb
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.dll
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\ref\HandsOnString.dll
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.pdb
+D:\capgemini training visual studio practice\module 1\C#\HandsOn\HandsOnString\obj\Debug\net5.0\HandsOnString.genruntimeconfig.cache
